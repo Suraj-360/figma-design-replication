@@ -1,5 +1,5 @@
 # figma-design-replication
-UpTodd
+UpTodd:
 UpTodd is a web application designed to provide resources and services related to parenting and child development. The platform offers various features aimed at supporting parents through informative content and interactive tools.
 
 Key features include:
